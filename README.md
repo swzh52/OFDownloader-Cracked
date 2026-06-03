@@ -7,8 +7,6 @@
 - **MAX 会员解锁** — 绕过所有会员等级检查，固定返回 MAX
 - **Token 认证绕过** — 无需登录即可使用全部功能
 - **下载无限制** — 并发配额、文件大小、DRM 等限制全部解除
-- **登录/付费拦截** — 所有 Sign In、Subscribe、Upgrade 按钮跳转被禁用
-- **UI 整洁** — 付费相关按钮文字已清空
 
 ## 📦 安装
 
@@ -51,6 +49,4 @@ git clone https://github.com/swzh52/OFDownloader-Cracked.git
 - 请支持 OFDownloader 原作者
 - 使用本软件产生的任何后果由使用者自行承担
 
-## 📄 许可证
 
-本项目基于 OFDownloader Chrome 2.2.2 修改，原始版权归原作者所有。
